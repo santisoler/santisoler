@@ -7,5 +7,5 @@ Also
 - Member of the 🤖 [Computer Oriented Geoscience Lab](https://www.compgeolab.org)
 - Free and Open Source Software Enthusiast
 
-> Science should be open, reproducible and freely accessible.
+> Science should be open, reproducible and freely accessible. \
 > Scientific software should be free and open-source.
