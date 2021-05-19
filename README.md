@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-I'm [Santiago Soler](https://santisoler.github.io), Physicist and PhD Student from Argentina.
+I'm [Santiago Soler](https://www.santisoler.com), Physicist and PhD Student from Argentina.
 Also
 
 - Python Developer at 🌎 [Fatiando a Terra](https://www.fatiando.org)
