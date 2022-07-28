@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-I'm [Santiago Soler](https://www.santisoler.com), Physicist and PhD in Geophysics from Argentina.
+I'm [Santiago Soler](https://www.santisoler.com), Physicist and PhD in Geophysics from Argentina, currently working as Postdoctoral Research Fellow at [EOAS](https://www.eoas.ubc.ca/), [UBC](https://www.ubc.ca/).
 Also
 
 - Python Developer at 🌎 [Fatiando a Terra](https://www.fatiando.org)
